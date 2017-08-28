@@ -1,0 +1,7 @@
+twisted
+scapy
+tinyec
+Crypto
+cryptography
+pyopenssl
+selenium
